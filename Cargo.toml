@@ -1,0 +1,17 @@
+[package]
+name = "variant_enum"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "variant enum. generate enum variant. static dispatch."
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = { version = "2", features = ["full"] }
+quote = "1"
+proc-macro2 = "1"
+
+[dev-dependencies]
+derive_more = "0.99"
