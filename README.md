@@ -1,8 +1,8 @@
 # variant_enum
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ycysdf/varaiant_enum#LICENSE)
-[![Crates.io](https://img.shields.io/crates/v/varaiant_enum.svg)](https://crates.io/crates/varaiant_enum)
-[![Docs](https://docs.rs/varaiant_enum/badge.svg)](https://docs.rs/varaiant_enum)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ycysdf/variant_enum#LICENSE)
+[![Crates.io](https://img.shields.io/crates/v/variant_enum.svg)](https://crates.io/crates/variant_enum)
+[![Docs](https://docs.rs/variant_enum/badge.svg)](https://docs.rs/variant_enum)
 
 ## Example
 
